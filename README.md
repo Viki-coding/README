@@ -57,7 +57,7 @@ HTML and CSS
 
 ## Frameworks, Libraries and Programs Used
 Balsamiq Wireframes - used to create wireframes
-Git 
+Git - version control
 Git Hub - To save and store the files for the website 
 Google Fonts - to import fonts onto the website
 Font Awesone for iconography on website 
@@ -65,12 +65,57 @@ Favicon - to create favicon
 Coolors - checking colour pallets and their contrast abilites with fonts.
 
 ## Manual Testing (Does the site work as intended?)
+Automated Testings:
+* W3c validator
+* Lighthouse
+Manual Testing
+* Test Form
+*   All fields entered
+*   |Valid email address?
+*   At least one radio button has to be selected
+*   When we click on Submit the user is given some feedback.
+*   Check the external link - CAREDOC - opens in new page
+
+  BUGS
+  Known bugs
+  Solved Bugs
+  *** Insert screen shot here ***
+
+  Testing.md was done straigt away. 
+  Testing was on-going thoughout the biuld.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
+
+  Each page has been inspected using google chrome developer tools and Firefox insepctor tool to ensure each page is fully responsive on a variety of different screen sizes and devices. 
+
+  We also opened the site on physically different devices - mobile phone, samsung table, applemac laptop. 
 ### Quality Assurance - Steps taken to manually test project / Ensure it functions correctly / Identifies potential bugs
 ### User Experience Assurance - Ensures that the end-users have a smooth experience by addressing potential issues
-## Deployment Steps 
+
 ### Guided Setup - Step by step process for deploying the project / Can reduce errors / Speeds up the deployment process 
+## Deployment Steps 
+1. The site is Deployed using GitHub Pages - Dungarvan Health Clinic
+2. Login to GitHub
+3. Go to the projects repository
+4. Click on Settings
+5. Select pages in the left navigation bar
+6. From SOURCE dropdown select Main Branch and SAVE
+7. The site is now deployed but may take a few minutes to go live.
+
+### How to Fork
+1. Login to Github
+2. Go to Project repostitory
+3. Click the FORK button top right corner
+4. 
+### How to Clone
+1. Log into Github
+2. Go to project respository
+3. click on the code button, select what want to clone HTTPS, SSH or GitHub CLI and copy the link.
+4. Open the terminal in your code editor and change the current working directiory to the lcoation you want to use for the cloned directory
+15. Tupe 'git clone' into the terminal and paste the link you copied in step 3.  Press enter.
+
 ### Smooth Transition to Production / Ensure that the project is correctly set up and functional in a live environment, ready for actual use.
 ## Credits 
 ### Acknowledging Contributions / Give credit to sources of tutorials, graphics and other resources used in the project
 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube.
+
+CONTENT written by Viki Mulhall. 
 ### Legal & Ethical Compliance / Helps in ensuring that all resources used are appropriately credited, respecting copyright and licence agreements.
